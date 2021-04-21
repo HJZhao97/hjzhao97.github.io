@@ -1,0 +1,2 @@
+webpackJsonp([8],{XRiw:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"blogMessage"},[t("h2",[this._v("blog留言")]),this._v("\n  待完善模块，敬请期待...\n")])}]};var i=n("VU/8")({name:"BlogMessage"},s,!1,function(e){n("jUp4")},"data-v-1ef9d219",null);t.default=i.exports},jUp4:function(e,t){}});
+//# sourceMappingURL=8.a92d4857a256262d8f38.js.map
